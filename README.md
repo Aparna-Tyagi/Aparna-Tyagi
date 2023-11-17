@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 
 - I’m Aparna!
 - Pronouns: She/Her
-- I’m currently pursuing B.Tech focused in Information Technology 
-- My areas of interest include Frontend Development, UI/UX Design & Python Development
 
